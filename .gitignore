@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Generated ETL output
+data/processed_sales.csv
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

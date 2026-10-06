@@ -1,0 +1,11 @@
+order_id,customer_id,product,quantity,price,order_date
+1,101,Laptop,1,850,2026-09-01
+2,102,Mouse,2,25,2026-09-01
+3,101,Keyboard,1,60,2026-09-02
+4,103,Monitor,2,220,2026-09-03
+5,104,Headphones,3,45,2026-09-03
+6,102,Mouse,1,25,2026-09-04
+7,105,Laptop,1,900,2026-09-05
+8,103,Keyboard,2,55,2026-09-05
+9,101,Monitor,1,210,2026-09-06
+10,104,Headphones,2,40,2026-09-07
